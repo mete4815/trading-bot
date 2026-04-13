@@ -9,6 +9,7 @@ API_SECRET = os.environ.get("API_SECRET", "")
 CLAUDE_API_KEY = os.environ.get("CLAUDE_API_KEY", "")
 TESTNET = os.environ.get("TESTNET", "True") == "True"
 SYMBOL = "BTC/USDT"
+COINS = ["BTC/USDT", "ETH/USDT", "SOL/USDT", "BNB/USDT", "XRP/USDT"]
 RISK_PERCENT = 2
 STOP_LOSS_PERCENT = 3
 TAKE_PROFIT_PERCENT = 6
@@ -186,7 +187,7 @@ def telegram_komut_dinle(ex, acik_pozisyon):
     t.start()
 
 def bot_calistir():
-    bildirim_gonder("Bot basladi! " + SYMBOL)
+    bildirim_gonder("Bot basladi! Tum coinler taranıyor.")
     print("Bot basladi!")
     ex = exchange_baglantisi_kur()
     acik_pozisyon = [None]
@@ -194,45 +195,79 @@ def bot_calistir():
     while True:
         try:
             print("--- Tarama ---")
-            fiyat = fiyat_al(ex)
             bakiye = bakiye_al(ex)
-            df = mumlar_al(ex)
-            df["rsi"] = rsi_hesapla(df)
-            df["ema"] = ema_hesapla(df)
-            son = df.iloc[-1]
-            rsi = son["rsi"]
-            ema = son["ema"]
-            print("RSI: " + str(round(rsi, 2)) + " EMA: " + str(round(ema, 2)))
             fg = fear_greed_al()
             funding = funding_rate_al()
+            en_iyi_coin = None
+            en_iyi_skor = -999
+
+            for coin in COINS:
+                try:
+                    ticker = ex.fetch_ticker(coin)
+                    fiyat = ticker["last"]
+                    mumlar = ex.fetch_ohlcv(coin, timeframe="1h", limit=100)
+                    df = pd.DataFrame(mumlar, columns=["zaman", "acilis", "yuksek", "dusuk", "kapanis", "hacim"])
+                    df["rsi"] = rsi_hesapla(df)
+                    df["ema"] = ema_hesapla(df)
+                    son = df.iloc[-1]
+                    rsi = son["rsi"]
+                    ema = son["ema"]
+                    skor = 0
+                    if rsi < 40:
+                        skor += 3
+                    elif rsi < 50:
+                        skor += 1
+                    elif rsi > 70:
+                        skor -= 2
+                    if fiyat > ema:
+                        skor += 1
+                    print(coin + " RSI: " + str(round(rsi, 2)) + " Skor: " + str(skor))
+                    if skor > en_iyi_skor:
+                        en_iyi_skor = skor
+                        en_iyi_coin = {"coin": coin, "fiyat": fiyat, "rsi": rsi, "ema": ema}
+                except Exception as e:
+                    print(coin + " hata: " + str(e))
+
             if acik_pozisyon[0]:
-                if fiyat <= acik_pozisyon[0]["stop"]:
-                    btc = ex.fetch_balance()["BTC"]["free"]
-                    if btc > 0:
-                        sat(ex, btc, fiyat)
-                        bildirim_gonder("STOP-LOSS! $" + str(fiyat))
+                coin_data = acik_pozisyon[0]
+                ticker = ex.fetch_ticker(coin_data["coin"])
+                fiyat = ticker["last"]
+                if fiyat <= coin_data["stop"]:
+                    coin_symbol = coin_data["coin"].replace("/", "")
+                    base = coin_data["coin"].split("/")[0]
+                    coin_bakiye = ex.fetch_balance()[base]["free"]
+                    if coin_bakiye > 0:
+                        ex.create_market_sell_order(coin_data["coin"], coin_bakiye)
+                        bildirim_gonder("STOP-LOSS! " + coin_data["coin"] + " $" + str(fiyat))
                     acik_pozisyon[0] = None
-                elif fiyat >= acik_pozisyon[0]["hedef"]:
-                    btc = ex.fetch_balance()["BTC"]["free"]
-                    if btc > 0:
-                        sat(ex, btc, fiyat)
-                        bildirim_gonder("TAKE-PROFIT! $" + str(fiyat))
+                elif fiyat >= coin_data["hedef"]:
+                    base = coin_data["coin"].split("/")[0]
+                    coin_bakiye = ex.fetch_balance()[base]["free"]
+                    if coin_bakiye > 0:
+                        ex.create_market_sell_order(coin_data["coin"], coin_bakiye)
+                        bildirim_gonder("TAKE-PROFIT! " + coin_data["coin"] + " $" + str(fiyat))
                     acik_pozisyon[0] = None
                 else:
-                    kar = round(((fiyat - acik_pozisyon[0]["giris"]) / acik_pozisyon[0]["giris"]) * 100, 2)
+                    kar = round(((fiyat - coin_data["giris"]) / coin_data["giris"]) * 100, 2)
                     print("Pozisyon kar: %" + str(kar))
-            else:
+            elif en_iyi_coin and en_iyi_skor >= 2:
+                coin = en_iyi_coin["coin"]
+                fiyat = en_iyi_coin["fiyat"]
+                rsi = en_iyi_coin["rsi"]
+                ema = en_iyi_coin["ema"]
                 karar, aciklama = claude_karar_al(fiyat, rsi, ema, fg, funding, bakiye)
                 if karar == "AL":
-                    sonuc = al(ex, fiyat, bakiye)
-                    if sonuc:
-                        acik_pozisyon[0] = sonuc
-                        bildirim_gonder("ALIS! $" + str(fiyat) + " Stop: $" + str(sonuc["stop"]) + " Hedef: $" + str(sonuc["hedef"]))
-                elif karar == "SAT":
-                    btc = ex.fetch_balance()["BTC"]["free"]
-                    if btc > 0:
-                        sat(ex, btc, fiyat)
-                        bildirim_gonder("SATIS! $" + str(fiyat))
+                    miktar = round((bakiye * RISK_PERCENT / 100) / fiyat, 6)
+                    if miktar * fiyat >= 10:
+                        emir = ex.create_market_buy_order(coin, miktar)
+                        stop = round(fiyat * (1 - STOP_LOSS_PERCENT / 100), 4)
+                        hedef = round(fiyat * (1 + TAKE_PROFIT_PERCENT / 100), 4)
+                        acik_pozisyon[0] = {"coin": coin, "giris": fiyat, "stop": stop, "hedef": hedef, "miktar": miktar}
+                        bildirim_gonder("ALIS! " + coin + " $" + str(fiyat) + " Stop: $" + str(stop) + " Hedef: $" + str(hedef))
+                    else:
+                        print("Bakiye yetersiz.")
+            else:
+                print("Uygun coin bulunamadi, bekleniyor.")
             print("Sonraki tarama " + str(CHECK_INTERVAL) + " saniye sonra...")
             time.sleep(CHECK_INTERVAL)
         except KeyboardInterrupt:

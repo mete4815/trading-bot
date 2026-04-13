@@ -101,7 +101,7 @@ def claude_karar_al(fiyat, rsi, ema, fear_greed, funding, bakiye):
     prompt += "Fear & Greed: " + fear_greed + "\n"
     prompt += "Funding: " + funding + "\n"
     prompt += "Bakiye: $" + str(bakiye) + "\n"
-    prompt += "YANIT: KARAR: [AL/SAT/BEKLE] GEREKCЕ: [aciklama] GUVENILIRLIK: [DUSUK/ORTA/YUKSEK]"
+    prompt += "YANIT FORMATI: KARAR: AL veya SAT veya BEKLE, GEREKCE: kisa aciklama, GUVENILIRLIK: DUSUK veya ORTA veya YUKSEK"
     headers = {"x-api-key": CLAUDE_API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json"}
     veri = {"model": "claude-sonnet-4-6", "max_tokens": 150, "messages": [{"role": "user", "content": prompt}]}
     try:

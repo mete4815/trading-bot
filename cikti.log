@@ -1,0 +1,2956 @@
+==================================================
+   AI Trading Bot Başlatıldı
+   Coin: BTC/USDT
+   Karar motoru: Claude AI
+==================================================
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72524.63
+Kullanılabilir bakiye: $9040.9618538
+RSI: 59.45 | EMA: 72099.96
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 59.45 ile aşırı alım bölgesinde değil ve fiyat EMA(20) üzerinde seyrediyor; teknik görünüm pozitif. Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunmaktadır, ancak momentum henüz güçlü bir yükseliş sinyali vermekte.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72527.39
+Kullanılabilir bakiye: $9040.9618538
+RSI: 59.49 | EMA: 72100.22
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: Fiyat EMA(20) üzerinde seyrediyor ve RSI 59.49 ile henüz aşırı alım bölgesine girmeden yükseliş momentumu devam ediyor. Aşırı Korku endeksi kontrarian bir alım fırsatına işaret ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72484.0
+Kullanılabilir bakiye: $9040.9618538
+RSI: 58.90 | EMA: 72096.09
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 58.90 ile orta bölgede ve fiyat EMA20 üzerinde seyrederek yükseliş momentumunu koruyor. Aşırı Korku endeksi kontrarian bir alım fırsatına işaret ederken funding rate dengeli olması aşırı kaldıraç riskini azaltıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72559.66
+Kullanılabilir bakiye: $9040.9618538
+RSI: 59.91 | EMA: 72103.30
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 59.91 ile henüz aşırı alım bölgesinde değil ve fiyat EMA(20) üzerinde seyrediyor; teknik görünüm olumlu. Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunmaktadır.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72581.98
+Kullanılabilir bakiye: $9040.9618538
+RSI: 60.20 | EMA: 72105.42
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 60 seviyesinde olup aşırı alım bölgesine ulaşmamış, fiyat EMA(20) üzerinde seyrederek yükseliş momentumunu koruyor. Fear & Greed Index'in "Aşırı Korku" göstermesi kontrarian bir alım fırsatına işaret ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72539.04
+Kullanılabilir bakiye: $9040.9618538
+RSI: 59.64 | EMA: 72101.33
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 59.64 ile yükseliş momentumu güçlü, fiyat EMA20'nin üzerinde seyrediyor ve Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunuyor. Funding Rate dengeli olması aşırı kaldıraç riskini ortadan kaldırıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72611.59
+Kullanılabilir bakiye: $9040.9618538
+RSI: 60.58 | EMA: 72108.24
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 60.58 ile güçlü momentum gösterirken fiyat EMA(20) üzerinde seyrediyor; Aşırı Korku endeksi tarihen iyi alım fırsatları sunar. Funding rate dengeli olması aşırı kaldıraç riskini azaltıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72628.76
+Kullanılabilir bakiye: $9040.9618538
+RSI: 60.79 | EMA: 72109.88
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 60.79 ile güçlü momentum gösterirken fiyat EMA(20) üzerinde seyrediyor; Aşırı Korku endeksi genellikle iyi bir alım fırsatı sunar. Teknik görünüm pozitif ve funding rate dengeli olması aşırı long baskısı olmadığını gösteriyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72656.03
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.13 | EMA: 72112.47
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61 ile aşırı alım bölgesine girmeden yükseliş momentumu mevcut ve fiyat EMA20'nin üzerinde seyrediyor. Fear & Greed Index'in "Aşırı Korku" göstermesi contrarian bir alım fırsatına işaret ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72684.55
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.47 | EMA: 72115.19
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61.47 ile güçlü ama aşırı alım bölgesine girmemiş, fiyat EMA20'nin üzerinde seyrediyor ve Fear & Greed "Aşırı Korku" seviyesi tarihsel olarak iyi alım fırsatları sunuyor. Funding rate dengeli olması da long pozisyon için sağlıklı bir ortam işaret ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72676.12
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.37 | EMA: 72114.39
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61.37 ile güçlü ama aşırı alım bölgesinde değil, EMA(20) üzerindeki fiyat pozitif momentum gösteriyor. Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunmaktadır.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72699.84
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.65 | EMA: 72116.65
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: BEKLE
+GEREKÇE: RSI 61.65 ile fiyat EMA20'nin üzerinde olumlu görünse de Fear & Greed endeksinin "Aşırı Korku" göstermesi teknik ve duygu verileri arasında çelişki yaratıyor. Bu çelişkili sinyaller net bir yön teyidi olmadan pozisyon açmayı riskli kılıyor.
+GÜVENİLİRLİK: ORTA
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72712.39
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.87 | EMA: 72118.34
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61.87 ile güçlü ama aşırı alım bölgesinde değil, EMA(20) üzerinde fiyat pozitif momentum gösteriyor. Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunar ve funding rate dengeli olması pozisyon maliyetini düşük tutar.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72724.28
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.94 | EMA: 72118.97
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61.94 ile güçlü ama aşırı alım bölgesinde değil, EMA(20) üzerindeki fiyat pozitif momentum gösteriyor. Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunmaktadır.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72727.92
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.99 | EMA: 72119.32
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 62 ile henüz aşırı alım bölgesine girmemiş, fiyat EMA20'nin üzerinde seyrediyor ve bu teknik görünüm yükseliş momentumunu destekliyor. Aşırı Korku endeksi mevcut fiyat seviyesinde kontrarian bir alım fırsatı sunuyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72679.52
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.41 | EMA: 72114.71
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61 ile güçlü ama aşırı alım bölgesinde değil, fiyat EMA20'nin üzerinde seyrediyor ve Fear & Greed'in "Aşırı Korku" göstermesi tarihsel olarak iyi bir alım fırsatına işaret ediyor. Funding rate dengeli olması aşırı kaldıraç riskini azaltıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72588.4
+Kullanılabilir bakiye: $9040.9618538
+RSI: 60.28 | EMA: 72106.03
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 60 seviyesinde güçlü momentum gösterirken fiyat EMA(20) üzerinde seyrediyor; Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunmaktadır. Funding rate dengeli olması aşırı kaldıraç riskini azaltıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72600.37
+Kullanılabilir bakiye: $9040.9618538
+RSI: 60.43 | EMA: 72107.17
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 60.43 ile henüz aşırı alım bölgesinde değil ve fiyat EMA(20) üzerinde seyrediyor; bu durum kısa vadeli yükseliş momentumunu destekliyor. Aşırı Korku endeksi kontrarian bir alım fırsatına işaret ederken, funding rate'in dengeli olması pozisyon taşıma maliyetini minimize ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72682.03
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.44 | EMA: 72114.95
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61.44 ile güçlü momentum gösterirken fiyat EMA20'nin üzerinde seyrediyor; Fear & Greed "Aşırı Korku" seviyesi tarihsel olarak iyi alım fırsatları sunuyor. Funding rate dengeli olması aşırı kaldıraç riskini ortadan kaldırıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72711.51
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.79 | EMA: 72117.76
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61.79 ile henüz aşırı alım bölgesine girmemiş, fiyat EMA20'nin üzerinde seyrediyor ve "Aşırı Korku" endeksi tarihsel olarak iyi alım fırsatları sunuyor. Funding rate dengeli olması aşırı kaldıraç riskini azaltıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72732.01
+Kullanılabilir bakiye: $9040.9618538
+RSI: 62.01 | EMA: 72119.52
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 62 ile güçlü momentum gösterirken fiyat EMA20'nin üzerinde seyrediyor; Aşırı Korku endeksi tarihsel olarak iyi alım fırsatları sunar. Funding rate dengeli olması aşırı kaldıraç riskini azaltıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72702.32
+Kullanılabilir bakiye: $9040.9618538
+RSI: 61.68 | EMA: 72116.88
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 61.68 ile güçlü momentum gösteriyor ve fiyat EMA(20) üzerinde seyrediyor; Fear & Greed Index'in "Aşırı Korku" göstermesi kontrarian bir alım fırsatına işaret ediyor. Funding rate dengeli olması aşırı kaldıraç riskinin düşük olduğunu teyit ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72735.99
+Kullanılabilir bakiye: $9040.9618538
+RSI: 62.08 | EMA: 72120.09
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 62 ile güçlü momentum var ve fiyat EMA(20) üzerinde seyrederek yükseliş trendini destekliyor. Aşırı Korku endeksi tarihsel olarak alım fırsatı sunurken, funding rate dengesi aşırı kaldıraç riskinin olmadığına işaret ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72740.31
+Kullanılabilir bakiye: $9040.9618538
+RSI: 62.13 | EMA: 72120.50
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 62 ile aşırı alım bölgesine girmeden yukarı momentum devam ediyor ve fiyat EMA(20) üzerinde seyrederek güçlü trend sinyali veriyor. Fear & Greed'in "Aşırı Korku" göstermesi piyasada hala düzeltme beklentisi olduğunu ve potansiyel upside alanı bulunduğunu işaret ediyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72771.29
+Kullanılabilir bakiye: $9040.9618538
+RSI: 62.49 | EMA: 72123.45
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+
+🤖 Claude Analizi:
+KARAR: AL
+GEREKÇE: RSI 62.49 ile güçlü momentum gösterirken fiyat EMA(20) üzerinde seyrediyor; "Aşırı Korku" endeksi genellikle iyi alım fırsatlarına işaret eder. Funding rate dengeli olması aşırı kaldıraç riskini ortadan kaldırıyor.
+GÜVENİLİRLİK: ORTA
+Zaten yeterli BTC var, yeni alış yapılmadı.
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Güncel BTC/USDT fiyatı: $72738.56
+Kullanılabilir bakiye: $9040.9618538
+RSI: 62.11 | EMA: 72120.33
+Fear & Greed: 16 (Extreme Fear)
+Haber hatası: slice(None, 10, None)
+Funding Rate: %-0.0022
+Claude API hatası: HTTPSConnectionPool(host='api.anthropic.com', port=443): Read timed out. (read timeout=15)
+Sonraki tarama 60 saniye sonra...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by NameResolutionError("HTTPSConnection(host='api.telegram.org', port=443): Failed to resolve 'api.telegram.org' ([Errno 8] nodename nor servname provided, or not known)"))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+Telegram hatası: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot8778108932:AAEJPtzXhSgLITQGDlSg11ugwfkWaFXQq74/sendMessage (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT
+30 saniye sonra tekrar deneniyor...
+
+==================================================
+Tarama Başladı
+==================================================
+Hata: binance GET https://testnet.binance.vision/api/v3/ticker/24hr?symbol=BTCUSDT

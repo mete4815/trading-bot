@@ -1,0 +1,42 @@
+[
+  {
+    "zaman": "2026-04-10 17:24:35",
+    "islem": "AL",
+    "fiyat": 72952.98,
+    "miktar": 0.00274,
+    "stop_loss": 70764.39,
+    "take_profit": 77330.16
+  },
+  {
+    "zaman": "2026-04-10 17:25:34",
+    "islem": "AL",
+    "fiyat": 73035.25,
+    "miktar": 0.00268,
+    "stop_loss": 70844.19,
+    "take_profit": 77417.37
+  },
+  {
+    "zaman": "2026-04-10 17:31:53",
+    "islem": "AL",
+    "fiyat": 73081.47,
+    "miktar": 0.00262,
+    "stop_loss": 70889.03,
+    "take_profit": 77466.36
+  },
+  {
+    "zaman": "2026-04-10 17:42:44",
+    "islem": "AL",
+    "fiyat": 73039.93,
+    "miktar": 0.00257,
+    "stop_loss": 70848.73,
+    "take_profit": 77422.33
+  },
+  {
+    "zaman": "2026-04-10 17:43:47",
+    "islem": "AL",
+    "fiyat": 72810.32,
+    "miktar": 0.00253,
+    "stop_loss": 70626.01,
+    "take_profit": 77178.94
+  }
+]

@@ -137,11 +137,60 @@ def sat(exchange, miktar, fiyat):
     print("SATIS: " + str(miktar) + " BTC @ $" + str(fiyat))
     return exchange.create_market_sell_order(SYMBOL, miktar)
 
+
+def telegram_komut_dinle(ex, acik_pozisyon):
+    import threading
+    offset = [None]
+    
+    def dinle():
+        while True:
+            try:
+                url = "https://api.telegram.org/bot" + TELEGRAM_TOKEN + "/getUpdates"
+                params = {"timeout": 10}
+                if offset[0]:
+                    params["offset"] = offset[0]
+                yanit = requests.get(url, params=params, timeout=15)
+                for g in yanit.json().get("result", []):
+                    offset[0] = g["update_id"] + 1
+                    metin = g.get("message", {}).get("text", "")
+                    if metin == "/bakiye":
+                        try:
+                            b = ex.fetch_balance()
+                            usdt = round(b["USDT"]["free"], 2)
+                            btc = round(b["BTC"]["free"], 6)
+                            fiyat = ex.fetch_ticker(SYMBOL)["last"]
+                            toplam = round(usdt + btc * fiyat, 2)
+                            bildirim_gonder("Bakiye\nUSDT: " + str(usdt) + "\nBTC: " + str(btc) + "\nToplam: $" + str(toplam))
+                        except Exception as e:
+                            bildirim_gonder("Hata: " + str(e))
+                    elif metin == "/durum":
+                        try:
+                            fiyat = ex.fetch_ticker(SYMBOL)["last"]
+                            if acik_pozisyon[0]:
+                                poz = acik_pozisyon[0]
+                                kar = round(((fiyat - poz["giris"]) / poz["giris"]) * 100, 2)
+                                bildirim_gonder("Pozisyon\nGiris: $" + str(poz["giris"]) + "\nGuncel: $" + str(fiyat) + "\nKar: %" + str(kar))
+                            else:
+                                bildirim_gonder("Acik pozisyon yok. BTC: $" + str(fiyat))
+                        except Exception as e:
+                            bildirim_gonder("Hata: " + str(e))
+                    elif metin == "/yardim":
+                        bildirim_gonder("/bakiye /durum /yardim")
+                import time
+                time.sleep(1)
+            except Exception as e:
+                import time
+                time.sleep(5)
+    
+    t = threading.Thread(target=dinle, daemon=True)
+    t.start()
+
 def bot_calistir():
     bildirim_gonder("Bot basladi! " + SYMBOL)
     print("Bot basladi!")
     ex = exchange_baglantisi_kur()
     acik_pozisyon = [None]
+    telegram_komut_dinle(ex, acik_pozisyon)
     while True:
         try:
             print("--- Tarama ---")

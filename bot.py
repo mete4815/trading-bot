@@ -11,8 +11,8 @@ TESTNET = os.environ.get("TESTNET", "True") == "True"
 SYMBOL = "BTC/USDT"
 COINS = ["BTC/USDT", "ETH/USDT", "BNB/USDT", "SOL/USDT", "XRP/USDT", "ADA/USDT", "AVAX/USDT", "DOT/USDT", "LINK/USDT", "UNI/USDT", "ATOM/USDT", "LTC/USDT", "DOGE/USDT", "TON/USDT", "NEAR/USDT"]
 RISK_PERCENT = 2
-STOP_LOSS_PERCENT = 3
-TAKE_PROFIT_PERCENT = 6
+STOP_LOSS_PERCENT = 1.5
+TAKE_PROFIT_PERCENT = 2
 CHECK_INTERVAL = 60
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
@@ -250,7 +250,7 @@ def bot_calistir():
                 else:
                     kar = round(((fiyat - coin_data["giris"]) / coin_data["giris"]) * 100, 2)
                     print("Pozisyon kar: %" + str(kar))
-            elif en_iyi_coin and en_iyi_skor >= 0:
+            elif en_iyi_coin and en_iyi_skor >= -1:
                 coin = en_iyi_coin["coin"]
                 fiyat = en_iyi_coin["fiyat"]
                 rsi = en_iyi_coin["rsi"]
